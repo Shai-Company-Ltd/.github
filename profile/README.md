@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" width="150" alt="Shaï Company Logo">
   <h1>Welcome to Shaï Company Ltd 👋</h1>
-  <p><strong>The Premium Digital Experience.</strong></p>
+  <p><strong>Shaping the future across multiple dimensions.</strong></p>
 </div>
 
 ---
@@ -38,5 +38,5 @@ Feel free to reach out to us for collaborations, projects, or just to say hi!
 
 ---
 <div align="center">
-  <em>"The Premium Digital Experience."</em>
+  <em>"Shaping the future across multiple dimensions."</em>
 </div>
